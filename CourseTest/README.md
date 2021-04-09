@@ -4,3 +4,5 @@
 + [x] 点亮LED
 + [x] 中断
 + [x] 定时器
++ [x] LCD
++ [X] USART
