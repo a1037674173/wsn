@@ -6,7 +6,7 @@
 + [x] 定时器
 + [x] LCD
 + [X] USART
-+ [] WDT
-+ [] ADC
++ [ ] WDT
++ [ ] ADC
 + [x] DHT11
-+ [] 人体传感器 
++ [x] 人体传感器 
